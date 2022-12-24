@@ -29,7 +29,7 @@
       </datalist>
     </div>
     <div id="submit">
-      <input type="submit" class="button is-link is-outlined" value="Calculate3">
+      <input type="submit" class="button is-link is-outlined" value="Calculate">
     </div>
   </form>
 </div>
